@@ -14,4 +14,4 @@ To do:
 
 Marcos Vinicius Orlandi Castro - 830717
 Douglas Henrique Ferreira - 830658
-Videos no proprio Github 
+Vídeos no proprio Github 
