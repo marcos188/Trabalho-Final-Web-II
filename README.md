@@ -11,3 +11,7 @@ To do:
 - Correctly implement the POST method as REST
 - Organize views in a proper way so user doesn't see any folder and system doesn't crash.
 - Make a overview of UI and UX interface.
+
+Marcos Vinicius Orlandi Castro - 830717
+Douglas Henrique Ferreira - 830658
+
